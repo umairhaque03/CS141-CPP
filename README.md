@@ -1,1 +1,2 @@
-# CS141-C-
+# Program Design II
+Programming Language: C++
